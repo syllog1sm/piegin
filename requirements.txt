@@ -1,0 +1,5 @@
+falcon==0.1.8
+lxml==3.3.5
+pygal==1.4.6
+python-mimeparse==0.1.4
+six==1.7.3
